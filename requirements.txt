@@ -1,0 +1,3 @@
+mrcfile
+PyQt5
+matplotlib

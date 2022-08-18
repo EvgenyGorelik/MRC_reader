@@ -1,2 +1,2 @@
 # MRC_reader
-Program for opening mrc files
+Program for opening mrc files.
