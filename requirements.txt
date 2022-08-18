@@ -1,3 +1,4 @@
 mrcfile
 PyQt5
 matplotlib
+pyinstaller
